@@ -1,6 +1,6 @@
 site_title = "MyArxiv"
 limit_days = 7
-cache_url = "https://github.com/elttaes/MYarXiv/cache.json"
+cache_url = "https://elttaes.github.io/MYarXiv/cache.json"
 
 [[sources]]
 limit = 150
