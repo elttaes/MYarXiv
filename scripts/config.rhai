@@ -5,7 +5,6 @@ let titles =  titles_model + titles_method + titles_type;
 let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio"];
 
 let conferences = [
-    // ML
     "ICLR", "ICML", "NeurIPS", "NIPS"
 ];
 
