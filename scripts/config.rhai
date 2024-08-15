@@ -1,4 +1,4 @@
-let titles_type = ["Languge","Protein"，"Generation"];
+let titles_type = ["Languge","Protein","Generation"];
 let titles_model = ["BERT", "GPT", "Transformer", "ESM"];
 let titles_method = ["Pre-train", "Pretrain", "Prompt", "Self-Supervised", "Finetune"];
 let titles =  titles_model + titles_method + titles_type;
