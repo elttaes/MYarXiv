@@ -9,8 +9,18 @@ title = "Computer Vision and Pattern Recognition"
 
 [[sources]]
 limit = 150
+category = "cs.AI"
+title = "AI"
+
+[[sources]]
+limit = 150
 category = "q-bio.BM"
 title = "Biomolecules"
+
+[[sources]]
+limit = 150
+category = "q-bio.QM"
+title = "QM"
 
 [[sources]]
 limit = 150
