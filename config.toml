@@ -1,16 +1,6 @@
 site_title = "MyArxiv"
-limit_days = 7
+limit_days = 30
 cache_url = "https://elttaes.github.io/MYarXiv/cache.json"
-
-[[sources]]
-limit = 150
-category = "cs.CV"
-title = "Computer Vision and Pattern Recognition"
-
-[[sources]]
-limit = 150
-category = "cs.AI"
-title = "AI"
 
 [[sources]]
 limit = 150
@@ -21,16 +11,6 @@ title = "Biomolecules"
 limit = 150
 category = "q-bio.QM"
 title = "QM"
-
-[[sources]]
-limit = 150
-category = "cs.LG"
-title = "Machine Learning"
-
-[[sources]]
-limit = 150
-category = "cs.CL"
-title = "Computation and Language"
 
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
